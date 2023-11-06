@@ -62,8 +62,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Priyanshu-Patra222/Priyanshu-Patra222/blob/output/github-contribution-grid-snake.gif" />
-  
+  <img alt="snake eating my contributions" src="https://github.com/Priyanshu-Patra222/Priyanshu-Patra222/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
