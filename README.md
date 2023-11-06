@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Priyanshu-Patra222.Priyanshu-Patra222" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanshu+Patra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanshu+Patra!+🔥;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Flutter, Riverpod, Go**
 
- 💬 Ask me about **Flutter, Riverpod, Dart, Firebase... or anything
+ 💬 Ask me about **Flutter, Riverpod, Dart, Firebase, Rest API, UI/UX... or anything
 
- ⚡ Fun fact **Love to code**
+ ⚡ Fun fact **Love to code❤️**
  
  </div>
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,flutter,dart" /><br>
 </div>
 
 <br/>
