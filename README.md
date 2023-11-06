@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Priyanshu-Patra222.Priyanshu-Patra222" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font-family: 'Source Code Pro', monospace;
-&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanshu+Patra!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanshu+Patra!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India 🇮🇳</h3>
