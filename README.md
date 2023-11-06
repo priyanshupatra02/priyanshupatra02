@@ -34,12 +34,13 @@
 
  <hr/>
 
- <h2 align="center">⚒️ Current-Tech-Stack ⚒️</h2>
+<h2 align="center">⚒️ Current-Tech-Stack ⚒️</h2>
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,stackoverflow,github,xd,figma,materialui,tailwind,git" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <br>
 </div>
 
