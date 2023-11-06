@@ -16,7 +16,7 @@
 
  💬 Ask me about **Flutter, Riverpod, Dart, Firebase, Rest API, UI/UX... or anything
 
- ⚡ Fun fact **Love to code❤️**
+ ⚡ Fun fact - **Love to code❤️**
  
  </div>
  
