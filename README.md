@@ -62,7 +62,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Priyanshu-Patra222/Priyanshu-Patra222/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/priyanshupatra02/priyanshupatra02/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -71,10 +71,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats-Priyanshu-Patra222.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-<img width=390 src="https://github-readme-stats-priyanshupatra02.vercel.app/api?username=priyanshupatra02&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshupatra&show_icons=true&theme=radical" />&nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatra02&langs_count=10&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C,dart)" />&nbsp;
   <br/>
-<!--   <img width=325 align="center" src="https://github-readme-stats-Priyanshu-Patra222.vercel.app/api/top-langs/?username=Priyanshu-Patra222&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+
 </div>
 
 <br/><br/>
